@@ -1,0 +1,11 @@
+li:hover {
+    cursor: pointer;
+    color: red;
+}
+
+input#new {
+    width: 2em;
+}
+.span{
+    display: none;
+}
